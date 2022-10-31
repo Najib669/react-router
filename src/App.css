@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: rgb(50, 130, 183);
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+gap:  56px;  
+}
+.crdbdy{
+  background-color: brown;
+}
